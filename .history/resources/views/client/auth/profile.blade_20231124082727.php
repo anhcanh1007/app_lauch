@@ -1,0 +1,1 @@
+@extends('cl.layouts.master')

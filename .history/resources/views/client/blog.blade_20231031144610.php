@@ -1,0 +1,9 @@
+@section('main')
+    <div>
+        <div>
+            <div>
+                <button></button>
+            </div>
+        </div>
+    </div>
+@endsection
